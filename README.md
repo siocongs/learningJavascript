@@ -14,7 +14,7 @@ This repository contains a collection of practice codes, notes, and mini-project
 
 ## 📚 Learning Resources
 
-All materials and exercises in this repository are learned and developed based on the **JavaScript** playlist from the **Web Programming Unpas** YouTube channel.
+All materials and exercises in this repository are learned and developed based on the **JavaScript** playlist from **Web Programming Unpas** YouTube channel.
 
 🎥 **Main Reference:** [YouTube Web Programming Unpas](https://www.youtube.com/@sandhikagalihWPU)
 
